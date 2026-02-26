@@ -1,4 +1,4 @@
-# Welcome to the My-First-App-with-Vibe-Coding wiki!
+# Welcome to the My-First-App-with-Vibe-Coding!
 
 Kudos to [Farza Majeed](https://www.linkedin.com/in/farza-majeed-76685612a/) & Julian for the session on Wednesday.
 
